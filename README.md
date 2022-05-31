@@ -11,3 +11,5 @@ Macros implemented:
 * `btnRowReduce_Click`: Row reduce the matrix (first selection) and put the row echelon form into the cells starting at the top-left of the second selection.
 * `btnFullRowReduce_Click`: Fully row reduce the matrix (first selection) And put the reduced row echelon form into the cells starting at the top-left of the second selection.
 * `btnInvertMatrix_Click`: Invert the first selected matrix into the cells starting at the top-left of the second selection.
+
+![Linear Algebra in Excel](/screenshot.png "Linear Algebra in Excel")
